@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adress: MyString
+  capacity: 1
+  manager: MyString
+  businventory: 1
+
+two:
+  adress: MyString
+  capacity: 1
+  manager: MyString
+  businventory: 1

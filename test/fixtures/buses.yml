@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  licenseplate: MyString
+  capacity: 1
+  brand: MyString
+  startdate: 2017-09-02
+
+two:
+  licenseplate: MyString
+  capacity: 1
+  brand: MyString
+  startdate: 2017-09-02

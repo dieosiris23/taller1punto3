@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  bus: MyString
+  routes: MyText
+  salary: 1
+  tours: 1
+
+two:
+  name: MyString
+  bus: MyString
+  routes: MyText
+  salary: 1
+  tours: 1

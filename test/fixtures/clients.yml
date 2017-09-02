@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idcard: MyString
+  name: MyString
+  benefit: false
+  balance: 1
+
+two:
+  idcard: MyString
+  name: MyString
+  benefit: false
+  balance: 1
